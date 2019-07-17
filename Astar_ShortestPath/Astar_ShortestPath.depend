@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1559159590 source:c:\users\faisal\desktop\advance c\astar_shortestpath\list.c
+	"List.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1559159421 c:\users\faisal\desktop\advance c\astar_shortestpath\list.h
+	<stdlib.h>
+	"status.h"
+
+1559152340 c:\users\faisal\desktop\advance c\astar_shortestpath\status.h
+
+1559159912 source:c:\users\faisal\desktop\advance c\astar_shortestpath\main.c
+	<stdio.h>
+	"List.h"
+	"status.h"
+
+1559152209 source:c:\users\faisal\desktop\advance c\astar_shortestpath\status.c
+	"status.h"
+
